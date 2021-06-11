@@ -1,0 +1,21 @@
+h3
+{
+   width:90%;
+   height:5%;
+   color:white;
+   background-color:rgb(147, 207, 247);
+   text-align:center;
+   border-radius:20px;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   font-style:italic;
+   font-size:30px;
+}
+body
+{
+   background-color:pink;
+}
+
+button
+{
+    width:50%;
+}
